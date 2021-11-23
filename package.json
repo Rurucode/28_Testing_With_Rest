@@ -1,0 +1,23 @@
+{
+  "name": "testing_with_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rurucode/Testing_With_Rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rurucode/Testing_With_Rest/issues"
+  },
+  "homepage": "https://github.com/Rurucode/Testing_With_Rest#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
